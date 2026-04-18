@@ -4,7 +4,7 @@
 <div align="Center">
 
 <a href="https://github.com/HexIRs">
-<img src="https://github.com/user-attachments/assets/68dcf8d3-06e1-4afc-8a9a-c0a36a69a2cd" />
+<img src="" />
 </a>
 
 <div align="center">
