@@ -12,7 +12,6 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/HexIRs?label=Followers&style=social)](https://github.com/HexIRs?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/HexIRs?label=Stars&style=social)](https://github.com/HexIRs?tab=repositories)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 </div>
 </div>
@@ -51,7 +50,7 @@
 
 |‎ ‎ ‎ ‎ Redes & Contacto ‎ ‎ ‎ ‎ |
 | ----------|
-| <details> <summary>💬 ¡Hablemos!</summary> <br> <img width="18px" src="https://skillicons.dev/icons?i=linkedin"> [LinkedIn](https://www.linkedin.com/in/edgar-silva-4b646136a/) <br> <img width="18px" src="https://skillicons.dev/icons?i=twitter"> [X (Twitter)](https://x.com/HexIRswg) <br> <img width="18px" src="https://skillicons.dev/icons?i=gmail"> [Gmail](mailto:lorenceisidoro@gmail.com) </details> |
+| <details> <summary>💬 ¡Hablemos!</summary> <br> <img width="18px" src="https://skillicons.dev/icons?i=linkedin"> [LinkedIn](https://www.linkedin.com/in/edgar-silva-4b646136a/) <br> <img width="18px" src="https://skillicons.dev/icons?i=twitter"> [X (Twitter)](https://x.com/HexIRswg) <br> <img width="18px" src="https://skillicons.dev/icons?i=gmail"> [Gmail](edgarsilvaaa27@gmail.com) </details> |
 </div>
 
 
