@@ -1,29 +1,18 @@
 ## Hi there 👋
 
 
-<div align="Center">
-
-<a href="https://github.com/HexIRs">
-<img src="" />
-</a>
-
-<div align="center">
-
 <div align="center">
 
 <a href="https://github.com/HexIRs">
-  <img src="" />
+  <img width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDk3ZHJiM296cGJscjc4cWQ1YmN6ZGo0bHRzZjFvZG1zMGo3djZyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" />
 </a>
 
-<div align="center">
-
-<img width="200" src="" />
-
+<br>
 <br>
 
 [![GitHub Followers](https://img.shields.io/github/followers/HexIRs?label=Followers&style=social)](https://github.com/HexIRs?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/HexIRs?label=Stars&style=social)](https://github.com/HexIRs?tab=repositories)
-
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 </div>
 </div>
