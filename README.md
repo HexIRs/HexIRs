@@ -50,7 +50,7 @@
 
 |‎ ‎ ‎ ‎ Redes & Contacto ‎ ‎ ‎ ‎ |
 | ----------|
-| <details> <summary>💬 ¡Hablemos!</summary> <br> <img width="18px" src="https://skillicons.dev/icons?i=linkedin"> [LinkedIn](https://www.linkedin.com/in/edgar-silva-4b646136a/) <br> <img width="18px" src="https://skillicons.dev/icons?i=twitter"> [X (Twitter)](https://x.com/HexIRswg) <br> <img width="18px" src="https://skillicons.dev/icons?i=gmail"> [Gmail](edgarsilvaaa27@gmail.com) </details> |
+| <details> <summary>💬 ¡Hablemos!</summary> <br> <img width="18px" src="https://skillicons.dev/icons?i=linkedin"> [LinkedIn](https://www.linkedin.com/in/edgar-silva-4b646136a/) <br> <img width="18px" src="https://skillicons.dev/icons?i=twitter"> [X (Twitter)](https://x.com/HexIRswg) <br> <img width="18px" src="https://skillicons.dev/icons?i=gmail"> [Gmail](mailto:edgarsilvaaa27@gmail.com) </details> |
 </div>
 
 
