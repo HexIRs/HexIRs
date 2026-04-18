@@ -21,8 +21,8 @@
 
 <div align="Center">
 
-| Website | Programming | 
-| ------------- | ------------- |
+| Website | Programming | Web Penetration
+| ------------- | -------------|
 | <img src="https://skillicons.dev/icons?i=html,css,js"/> | <img src="https://skillicons.dev/icons?i=bash,vscode"/> |
 
 </div>
