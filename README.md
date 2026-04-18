@@ -21,7 +21,7 @@
 
 <div align="Center">
 
-| Website | Programming | Web Penetration
+| Website | Programming | 
 | ------------- | -------------|
 | <img src="https://skillicons.dev/icons?i=html,css,js"/> | <img src="https://skillicons.dev/icons?i=bash,vscode"/> |
 
@@ -44,18 +44,9 @@
 
 
 
-<div align="Center">
 
-| CtorW's Stats | Ultimate Streak |
-| ------------- | ------------- |
-| <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=CtorW">  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=default&hide_border=true)
 
-| Most Lang |
-| ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=default&show_icons=true&hide_border=true&layout=compact) |
-| <img src="https://github-profile-trophy.vercel.app/?username=CtorW"> |
 
-</div>
 
 <div align="Center">
 
