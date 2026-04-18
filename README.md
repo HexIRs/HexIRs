@@ -11,7 +11,7 @@
 
 <img src="ruta-a-tu-primer-tux.png" />
 <br>
-<img width="200" src="ruta-a-tu-segundo-tux.png" />
+<img width="200" src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzZpbG5uN3phZGNjZ29zYTlxN21sMnR1YzhscGR6cGt0cTdidTdzZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHWbXcpeKhTktXi/200.webp" />
 
 <br>
 <br>
@@ -20,7 +20,6 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/HexIRs?label=Stars&style=flat-square&color=black&logo=reverbnation)](https://github.com/HexIRs?tab=repositories)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 </div>
 
