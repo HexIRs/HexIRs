@@ -12,18 +12,18 @@
 <div align="center">
 
 <a href="https://github.com/HexIRs">
-  <img src="https://github.com/user-attachments/assets/68dcf8d3-06e1-4afc-8a9a-c0a36a69a2cd" />
+  <img src="" />
 </a>
 
 <div align="center">
 
-<img width="200" src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzZpbG5uN3phZGNjZ29zYTlxN21sMnR1YzhscGR6cGt0cTdidTdzZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHWbXcpeKhTktXi/200.webp" />
+<img width="200" src="" />
 
 <br>
 
 [![GitHub Followers](https://img.shields.io/github/followers/HexIRs?label=Followers&style=social)](https://github.com/HexIRs?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/HexIRs?label=Stars&style=social)](https://github.com/HexIRs?tab=repositories)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 
 </div>
 </div>
