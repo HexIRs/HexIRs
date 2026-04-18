@@ -13,7 +13,7 @@
 
 </div>
 </div>
-## Hi there 👋
+
 # ✨ ¡Hola, bienvenido a mi espacio! 
 
 Soy un gran entusiasta de dos mundos que me fascinan: el **Desarrollo Back-end** y el **Web Pentesting**. 🛡️💻
