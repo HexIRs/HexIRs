@@ -9,14 +9,20 @@
 
 <div align="center">
 
-<img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
+<img src="ruta-a-tu-primer-tux.png" />
+<br>
+<img width="200" src="ruta-a-tu-segundo-tux.png" />
 
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
-[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
+<br>
+<br>
+
+[![GitHub Followers](https://img.shields.io/github/followers/HexIRs?label=Followers&style=flat-square&color=black&logo=github)](https://github.com/HexIRs?tab=followers)
+
+[![GitHub Stars](https://img.shields.io/github/stars/HexIRs?label=Stars&style=flat-square&color=black&logo=reverbnation)](https://github.com/HexIRs?tab=repositories)
+
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 </div>
-
 
 
 <div align="Center">
