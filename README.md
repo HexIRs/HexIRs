@@ -1,5 +1,16 @@
 ## Hi there 👋
+# ✨ ¡Hola, bienvenido a mi espacio! 
 
+Soy un gran entusiasta de dos mundos que me fascinan: el **Desarrollo Back-end** y el **Web Pentesting**. 🛡️💻
+
+Me considero un aprendiz constante. Me encanta esa sensación de "romper algo" para entender cómo funciona y luego aprender a construirlo de forma más segura. No soy un experto, pero disfruto cada paso de este camino y cada error en la terminal. 🐧
+
+### 🔍 En lo que estoy metido ahora:
+- 🛠️ **Back-end:** Descubriendo cómo se crea la magia detrás de las aplicaciones.
+- 🛡️ **Seguridad:** Explorando el mundo del Pentesting y aprendiendo a ver la web con otros ojos.
+- 🐧 **Linux:** Mi laboratorio personal donde paso la mayor parte del tiempo practicando.
+
+**"Simplemente alguien que disfruta el código y la seguridad tanto como el proceso de aprenderlos."**
 
 <div align="center">
 
