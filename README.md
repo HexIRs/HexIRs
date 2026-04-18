@@ -17,23 +17,13 @@
 
 </div>
 
-# Arch Installer
 
-**Project:** Arch Linux Fast Installer
-<br>
-**Focus:** Hyprland, Dotfiles (HyDE, HyprLuna, End-4, Caelestia`current`)
-<br>
-<br>
-<br>
-<div align="Center">
-<h1>Skills</h1>
-</div>
 
 <div align="Center">
 
-| Website | Programming |
+| Website | Programming | 
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js"/> | <img src="https://skillicons.dev/icons?i=bash,vscode"/> |
 
 </div>
 
@@ -45,17 +35,12 @@
 <div align="Center">
 <h1>Operating Systems</h1>
 
-<img src="https://skillicons.dev/icons?i=arch,linux"/>
+<img src="https://skillicons.dev/icons?i=windows,linux,kali"/>
 
 </div>
 
 <br>
 <br>
-
-| Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
-
 
 
 
@@ -74,13 +59,10 @@
 
 <div align="Center">
 
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
+|‎ ‎ ‎ ‎ Redes & Contacto ‎ ‎ ‎ ‎ |
 | ----------|
-| <details> <summary>💬Socials</summary> <img width="15px" src="https://skillicons.dev/icons?i=gmail">[Gmail](mailto:lorenceisidoro@gmail.com) <img width="15px" src="https://skillicons.dev/icons?i=discord">[Discord](https://example) <img width="15px" src="https://skillicons.dev/icons?i=instagram">[Instagram](https://example) |
-
+| <details> <summary>💬 ¡Hablemos!</summary> <br> <img width="18px" src="https://skillicons.dev/icons?i=linkedin"> [LinkedIn](https://www.linkedin.com/in/edgar-silva-4b646136a/) <br> <img width="18px" src="https://skillicons.dev/icons?i=twitter"> [X (Twitter)](https://x.com/HexIRswg) <br> <img width="18px" src="https://skillicons.dev/icons?i=gmail"> [Gmail](mailto:lorenceisidoro@gmail.com) </details> |
 </div>
 
-# Last Update 
-```bash
-Last Update: July 22, 2025 | Tuesday | UTC+08:00
-```
+
+
